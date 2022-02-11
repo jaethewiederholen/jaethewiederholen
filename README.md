@@ -35,6 +35,7 @@ And I'm also interested in Blockchain & AR and learning it as newbie🐣.
 <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img alt="Postgresql" src ="https://img.shields.io/badge/Postgres-4169E1.svg?&style=for-the-badge&logo=Postgresql&logoColor=white"/>
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>  
 </div>
 
 ### Github Stats
