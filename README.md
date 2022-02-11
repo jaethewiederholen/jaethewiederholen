@@ -3,9 +3,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herakjy0705@gmail.com)](mailto:herakjy0705@gmail.com)
 
-Hi there! This is JaeYeon Kim living in Seoul South Korea :)
-I'm currently working on Server Development & Database as <b>Backend Developer</b>.
-And I'm also interested in Blockchain & AR and learning it as newbie🐣
+Hi there! This is JaeYeon Kim living in Seoul South Korea :).   
+I'm currently working on Server Development & Database as <b>Backend Developer</b>.  
+And I'm also interested in Blockchain & AR and learning it as newbie🐣. 
 
 
 ### 📈 Career
@@ -14,7 +14,7 @@ And I'm also interested in Blockchain & AR and learning it as newbie🐣
 |---------------------|------------------|-------------------------------------------------------------|------------------------|---|
 | Education           |  2017.3 ~ 2022.9 | Major in ContentConvergence  DoubleMajor in ComputerScience | Ewha Womans University |   |
 | External Activities | 2021.4 ~ 2021.10 |                    CEOS 13th Backend Team                   |          CEOS          |   |
-| Employment          | 2021.6 ~ 2021.12 |                      Backend Developer                      |        Earlypay        |   |
+| Employment          | 2021.6 ~ 2021.12 |                   Backend Developer Intern                  |        Earlypay        |   |
 ### 💓 Interest & Related Projects
 - Web Server
   - [Poolink](https://github.com/jaethewiederholen/Poolink_backend)
